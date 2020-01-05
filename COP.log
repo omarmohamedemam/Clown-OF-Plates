@@ -1,0 +1,1346 @@
+<!DOCTYPE html>
+<head>
+<style>
+table { width: 100% }
+th { font:bold 10pt Tahoma; }
+td { font:normal 10pt Tahoma; }
+h1 {font:normal 11pt Tahoma;}
+</style>
+</head>
+<body>
+<h1>Fri Dec 20 23:43:51 EET 2019</h1>
+<table border="0" cellpadding="5" cellspacing="3">
+<tr align="left">
+	<th style="width:10%">Loglevel</th>
+	<th style="width:15%">Time</th>
+	<th style="width:75%">Log Message</th>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 20,2019 23:43</td>
+	<td>Hello World</td>
+</tr>
+</table>
+</body>
+</html><!DOCTYPE html>
+<head>
+<style>
+table { width: 100% }
+th { font:bold 10pt Tahoma; }
+td { font:normal 10pt Tahoma; }
+h1 {font:normal 11pt Tahoma;}
+</style>
+</head>
+<body>
+<h1>Fri Dec 20 23:44:43 EET 2019</h1>
+<table border="0" cellpadding="5" cellspacing="3">
+<tr align="left">
+	<th style="width:10%">Loglevel</th>
+	<th style="width:15%">Time</th>
+	<th style="width:75%">Log Message</th>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 20,2019 23:44</td>
+	<td>Hello World</td>
+</tr>
+</table>
+</body>
+</html><!DOCTYPE html>
+<head>
+<style>
+table { width: 100% }
+th { font:bold 10pt Tahoma; }
+td { font:normal 10pt Tahoma; }
+h1 {font:normal 11pt Tahoma;}
+</style>
+</head>
+<body>
+<h1>Fri Dec 20 23:46:57 EET 2019</h1>
+<table border="0" cellpadding="5" cellspacing="3">
+<tr align="left">
+	<th style="width:10%">Loglevel</th>
+	<th style="width:15%">Time</th>
+	<th style="width:75%">Log Message</th>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 20,2019 23:46</td>
+	<td>Hello World</td>
+</tr>
+</table>
+</body>
+</html><!DOCTYPE html>
+<head>
+<style>
+table { width: 100% }
+th { font:bold 10pt Tahoma; }
+td { font:normal 10pt Tahoma; }
+h1 {font:normal 11pt Tahoma;}
+</style>
+</head>
+<body>
+<h1>Fri Dec 20 23:47:25 EET 2019</h1>
+<table border="0" cellpadding="5" cellspacing="3">
+<tr align="left">
+	<th style="width:10%">Loglevel</th>
+	<th style="width:15%">Time</th>
+	<th style="width:75%">Log Message</th>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 20,2019 23:47</td>
+	<td>Hello World</td>
+</tr>
+</table>
+</body>
+</html><!DOCTYPE html>
+<head>
+<style>
+table { width: 100% }
+th { font:bold 10pt Tahoma; }
+td { font:normal 10pt Tahoma; }
+h1 {font:normal 11pt Tahoma;}
+</style>
+</head>
+<body>
+<h1>Fri Dec 20 23:51:08 EET 2019</h1>
+<table border="0" cellpadding="5" cellspacing="3">
+<tr align="left">
+	<th style="width:10%">Loglevel</th>
+	<th style="width:15%">Time</th>
+	<th style="width:75%">Log Message</th>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 20,2019 23:51</td>
+	<td>Hello World</td>
+</tr>
+</table>
+</body>
+</html><!DOCTYPE html>
+<head>
+<style>
+table { width: 100% }
+th { font:bold 10pt Tahoma; }
+td { font:normal 10pt Tahoma; }
+h1 {font:normal 11pt Tahoma;}
+</style>
+</head>
+<body>
+<h1>Fri Dec 20 23:52:05 EET 2019</h1>
+<table border="0" cellpadding="5" cellspacing="3">
+<tr align="left">
+	<th style="width:10%">Loglevel</th>
+	<th style="width:15%">Time</th>
+	<th style="width:75%">Log Message</th>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 20,2019 23:52</td>
+	<td>Hello World</td>
+</tr>
+</table>
+</body>
+</html><!DOCTYPE html>
+<head>
+<style>
+table { width: 100% }
+th { font:bold 10pt Tahoma; }
+td { font:normal 10pt Tahoma; }
+h1 {font:normal 11pt Tahoma;}
+</style>
+</head>
+<body>
+<h1>Fri Dec 20 23:52:23 EET 2019</h1>
+<table border="0" cellpadding="5" cellspacing="3">
+<tr align="left">
+	<th style="width:10%">Loglevel</th>
+	<th style="width:15%">Time</th>
+	<th style="width:75%">Log Message</th>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 20,2019 23:52</td>
+	<td>Hello World</td>
+</tr>
+</table>
+</body>
+</html><!DOCTYPE html>
+<head>
+<style>
+table { width: 100% }
+th { font:bold 10pt Tahoma; }
+td { font:normal 10pt Tahoma; }
+h1 {font:normal 11pt Tahoma;}
+</style>
+</head>
+<body>
+<h1>Fri Dec 20 23:55:00 EET 2019</h1>
+<table border="0" cellpadding="5" cellspacing="3">
+<tr align="left">
+	<th style="width:10%">Loglevel</th>
+	<th style="width:15%">Time</th>
+	<th style="width:75%">Log Message</th>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 20,2019 23:55</td>
+	<td>Hello World</td>
+</tr>
+</table>
+</body>
+</html><!DOCTYPE html>
+<head>
+<style>
+table { width: 100% }
+th { font:bold 10pt Tahoma; }
+td { font:normal 10pt Tahoma; }
+h1 {font:normal 11pt Tahoma;}
+</style>
+</head>
+<body>
+<h1>Sat Dec 21 00:09:27 EET 2019</h1>
+<table border="0" cellpadding="5" cellspacing="3">
+<tr align="left">
+	<th style="width:10%">Loglevel</th>
+	<th style="width:15%">Time</th>
+	<th style="width:75%">Log Message</th>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:09</td>
+	<td>Hello World</td>
+</tr>
+</table>
+</body>
+</html><!DOCTYPE html>
+<head>
+<style>
+table { width: 100% }
+th { font:bold 10pt Tahoma; }
+td { font:normal 10pt Tahoma; }
+h1 {font:normal 11pt Tahoma;}
+</style>
+</head>
+<body>
+<h1>Sat Dec 21 00:12:28 EET 2019</h1>
+<table border="0" cellpadding="5" cellspacing="3">
+<tr align="left">
+	<th style="width:10%">Loglevel</th>
+	<th style="width:15%">Time</th>
+	<th style="width:75%">Log Message</th>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:12</td>
+	<td>Hello World</td>
+</tr>
+</table>
+</body>
+</html><!DOCTYPE html>
+<head>
+<style>
+table { width: 100% }
+th { font:bold 10pt Tahoma; }
+td { font:normal 10pt Tahoma; }
+h1 {font:normal 11pt Tahoma;}
+</style>
+</head>
+<body>
+<h1>Sat Dec 21 00:14:48 EET 2019</h1>
+<table border="0" cellpadding="5" cellspacing="3">
+<tr align="left">
+	<th style="width:10%">Loglevel</th>
+	<th style="width:15%">Time</th>
+	<th style="width:75%">Log Message</th>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:14</td>
+	<td>Hello World</td>
+</tr>
+</table>
+</body>
+</html><!DOCTYPE html>
+<head>
+<style>
+table { width: 100% }
+th { font:bold 10pt Tahoma; }
+td { font:normal 10pt Tahoma; }
+h1 {font:normal 11pt Tahoma;}
+</style>
+</head>
+<body>
+<h1>Sat Dec 21 00:34:59 EET 2019</h1>
+<table border="0" cellpadding="5" cellspacing="3">
+<tr align="left">
+	<th style="width:10%">Loglevel</th>
+	<th style="width:15%">Time</th>
+	<th style="width:75%">Log Message</th>
+</tr>
+</table>
+</body>
+</html><!DOCTYPE html>
+<head>
+<style>
+table { width: 100% }
+th { font:bold 10pt Tahoma; }
+td { font:normal 10pt Tahoma; }
+h1 {font:normal 11pt Tahoma;}
+</style>
+</head>
+<body>
+<h1>Sat Dec 21 00:35:00 EET 2019</h1>
+<table border="0" cellpadding="5" cellspacing="3">
+<tr align="left">
+	<th style="width:10%">Loglevel</th>
+	<th style="width:15%">Time</th>
+	<th style="width:75%">Log Message</th>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:35</td>
+	<td>Opening Start frame</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:35</td>
+	<td>Hello World</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:35</td>
+	<td>Start Button Clicked</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:35</td>
+	<td>Opening levels Frame</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:35</td>
+	<td>Hard mode is Chosen</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:35</td>
+	<td>Medium mode is Chosen</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:35</td>
+	<td>Easy mode is Chosen</td>
+</tr>
+<tr>
+	<td style="color:red"><b>WARNING</b></td>
+	<td>Dec 21,2019 00:35</td>
+	<td>Backing home from levels</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:35</td>
+	<td>Setting Button Clicked</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:35</td>
+	<td>Setting Button Clicked</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:35</td>
+	<td>Start Button Clicked</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:35</td>
+	<td>Opening levels Frame</td>
+</tr>
+<tr>
+	<td style="color:red"><b>WARNING</b></td>
+	<td>Dec 21,2019 00:35</td>
+	<td>Backing home from levels</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:35</td>
+	<td>Setting Button Clicked</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:35</td>
+	<td>Start Button Clicked</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:35</td>
+	<td>Opening levels Frame</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:35</td>
+	<td>Medium mode is Chosen</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:35</td>
+	<td>Medium mode is Chosen</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:35</td>
+	<td>Moving to the game</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:35</td>
+	<td>Loading</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:35</td>
+	<td>Game is opened</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:35</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:35</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:35</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:35</td>
+	<td>Game Paused</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:35</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:35</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:35</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:35</td>
+	<td>sound muted inside the game</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:35</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:35</td>
+	<td>sound unmuted inside the game</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:35</td>
+	<td>sound muted inside the game</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:35</td>
+	<td>sound unmuted inside the game</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:35</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:35</td>
+	<td>sound muted inside the game</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:35</td>
+	<td>sound unmuted inside the game</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:35</td>
+	<td>sound muted inside the game</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:35</td>
+	<td>sound unmuted inside the game</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:35</td>
+	<td>sound muted inside the game</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:35</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:35</td>
+	<td>sound unmuted inside the game</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:35</td>
+	<td>sound muted inside the game</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:35</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:35</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:35</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td style="color:red"><b>WARNING</b></td>
+	<td>Dec 21,2019 00:35</td>
+	<td>Backing home from the game</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:35</td>
+	<td>Opening Start frame</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:35</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:35</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:35</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:35</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:35</td>
+	<td>Exit Button Clicked</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:35</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td style="color:red"><b>WARNING</b></td>
+	<td>Dec 21,2019 00:35</td>
+	<td>Exit Game</td>
+</tr>
+</table>
+</body>
+</html><!DOCTYPE html>
+<head>
+<style>
+table { width: 100% }
+th { font:bold 10pt Tahoma; }
+td { font:normal 10pt Tahoma; }
+h1 {font:normal 11pt Tahoma;}
+</style>
+</head>
+<body>
+<h1>Sat Dec 21 00:36:08 EET 2019</h1>
+<table border="0" cellpadding="5" cellspacing="3">
+<tr align="left">
+	<th style="width:10%">Loglevel</th>
+	<th style="width:15%">Time</th>
+	<th style="width:75%">Log Message</th>
+</tr>
+</table>
+</body>
+</html><!DOCTYPE html>
+<head>
+<style>
+table { width: 100% }
+th { font:bold 10pt Tahoma; }
+td { font:normal 10pt Tahoma; }
+h1 {font:normal 11pt Tahoma;}
+</style>
+</head>
+<body>
+<h1>Sat Dec 21 00:36:08 EET 2019</h1>
+<table border="0" cellpadding="5" cellspacing="3">
+<tr align="left">
+	<th style="width:10%">Loglevel</th>
+	<th style="width:15%">Time</th>
+	<th style="width:75%">Log Message</th>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:36</td>
+	<td>Opening Start frame</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:36</td>
+	<td>Hello World</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:36</td>
+	<td>Start Button Clicked</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:36</td>
+	<td>Opening levels Frame</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:36</td>
+	<td>Hard mode is Chosen</td>
+</tr>
+</table>
+</body>
+</html><!DOCTYPE html>
+<head>
+<style>
+table { width: 100% }
+th { font:bold 10pt Tahoma; }
+td { font:normal 10pt Tahoma; }
+h1 {font:normal 11pt Tahoma;}
+</style>
+</head>
+<body>
+<h1>Sat Dec 21 00:37:03 EET 2019</h1>
+<table border="0" cellpadding="5" cellspacing="3">
+<tr align="left">
+	<th style="width:10%">Loglevel</th>
+	<th style="width:15%">Time</th>
+	<th style="width:75%">Log Message</th>
+</tr>
+</table>
+</body>
+</html><!DOCTYPE html>
+<head>
+<style>
+table { width: 100% }
+th { font:bold 10pt Tahoma; }
+td { font:normal 10pt Tahoma; }
+h1 {font:normal 11pt Tahoma;}
+</style>
+</head>
+<body>
+<h1>Sat Dec 21 00:37:03 EET 2019</h1>
+<table border="0" cellpadding="5" cellspacing="3">
+<tr align="left">
+	<th style="width:10%">Loglevel</th>
+	<th style="width:15%">Time</th>
+	<th style="width:75%">Log Message</th>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:37</td>
+	<td>Opening Start frame</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:37</td>
+	<td>starting</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:37</td>
+	<td>Start Button Clicked</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:37</td>
+	<td>Opening levels Frame</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:37</td>
+	<td>Start Button Clicked</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:37</td>
+	<td>Opening levels Frame</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:37</td>
+	<td>Medium mode is Chosen</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:37</td>
+	<td>Hard mode is Chosen</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:37</td>
+	<td>Moving to the game</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:37</td>
+	<td>Loading</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:37</td>
+	<td>Game is opened</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:37</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 00:37</td>
+	<td>Score Changed</td>
+</tr>
+</table>
+</body>
+</html><!DOCTYPE html>
+<head>
+<style>
+table { width: 100% }
+th { font:bold 10pt Tahoma; }
+td { font:normal 10pt Tahoma; }
+h1 {font:normal 11pt Tahoma;}
+</style>
+</head>
+<body>
+<h1>Sat Dec 21 08:29:49 EET 2019</h1>
+<table border="0" cellpadding="5" cellspacing="3">
+<tr align="left">
+	<th style="width:10%">Loglevel</th>
+	<th style="width:15%">Time</th>
+	<th style="width:75%">Log Message</th>
+</tr>
+</table>
+</body>
+</html><!DOCTYPE html>
+<head>
+<style>
+table { width: 100% }
+th { font:bold 10pt Tahoma; }
+td { font:normal 10pt Tahoma; }
+h1 {font:normal 11pt Tahoma;}
+</style>
+</head>
+<body>
+<h1>Sat Dec 21 08:29:50 EET 2019</h1>
+<table border="0" cellpadding="5" cellspacing="3">
+<tr align="left">
+	<th style="width:10%">Loglevel</th>
+	<th style="width:15%">Time</th>
+	<th style="width:75%">Log Message</th>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:29</td>
+	<td>Opening Start frame</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:29</td>
+	<td>starting</td>
+</tr>
+</table>
+</body>
+</html><!DOCTYPE html>
+<head>
+<style>
+table { width: 100% }
+th { font:bold 10pt Tahoma; }
+td { font:normal 10pt Tahoma; }
+h1 {font:normal 11pt Tahoma;}
+</style>
+</head>
+<body>
+<h1>Sat Dec 21 08:32:44 EET 2019</h1>
+<table border="0" cellpadding="5" cellspacing="3">
+<tr align="left">
+	<th style="width:10%">Loglevel</th>
+	<th style="width:15%">Time</th>
+	<th style="width:75%">Log Message</th>
+</tr>
+</table>
+</body>
+</html><!DOCTYPE html>
+<head>
+<style>
+table { width: 100% }
+th { font:bold 10pt Tahoma; }
+td { font:normal 10pt Tahoma; }
+h1 {font:normal 11pt Tahoma;}
+</style>
+</head>
+<body>
+<h1>Sat Dec 21 08:32:45 EET 2019</h1>
+<table border="0" cellpadding="5" cellspacing="3">
+<tr align="left">
+	<th style="width:10%">Loglevel</th>
+	<th style="width:15%">Time</th>
+	<th style="width:75%">Log Message</th>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:32</td>
+	<td>Opening Start frame</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:32</td>
+	<td>starting</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:32</td>
+	<td>Start Button Clicked</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:32</td>
+	<td>Opening levels Frame</td>
+</tr>
+<tr>
+	<td style="color:red"><b>WARNING</b></td>
+	<td>Dec 21,2019 08:32</td>
+	<td>Backing home from levels</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:32</td>
+	<td>Start Button Clicked</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:32</td>
+	<td>Opening levels Frame</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:32</td>
+	<td>Easy mode is Chosen</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:32</td>
+	<td>Moving to the game</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:32</td>
+	<td>Loading</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:33</td>
+	<td>Game is opened</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:33</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:33</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:33</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:33</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:33</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:33</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:33</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:33</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:33</td>
+	<td>Score Changed</td>
+</tr>
+</table>
+</body>
+</html><!DOCTYPE html>
+<head>
+<style>
+table { width: 100% }
+th { font:bold 10pt Tahoma; }
+td { font:normal 10pt Tahoma; }
+h1 {font:normal 11pt Tahoma;}
+</style>
+</head>
+<body>
+<h1>Sat Dec 21 08:33:17 EET 2019</h1>
+<table border="0" cellpadding="5" cellspacing="3">
+<tr align="left">
+	<th style="width:10%">Loglevel</th>
+	<th style="width:15%">Time</th>
+	<th style="width:75%">Log Message</th>
+</tr>
+</table>
+</body>
+</html><!DOCTYPE html>
+<head>
+<style>
+table { width: 100% }
+th { font:bold 10pt Tahoma; }
+td { font:normal 10pt Tahoma; }
+h1 {font:normal 11pt Tahoma;}
+</style>
+</head>
+<body>
+<h1>Sat Dec 21 08:33:17 EET 2019</h1>
+<table border="0" cellpadding="5" cellspacing="3">
+<tr align="left">
+	<th style="width:10%">Loglevel</th>
+	<th style="width:15%">Time</th>
+	<th style="width:75%">Log Message</th>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:33</td>
+	<td>Opening Start frame</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:33</td>
+	<td>starting</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:33</td>
+	<td>Start Button Clicked</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:33</td>
+	<td>Opening levels Frame</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:33</td>
+	<td>Medium mode is Chosen</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:33</td>
+	<td>Moving to the game</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:33</td>
+	<td>Loading</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:33</td>
+	<td>Game is opened</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:33</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:33</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:33</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:33</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:33</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:33</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:33</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:33</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:33</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:33</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:33</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:33</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:33</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:33</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:33</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:33</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:33</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:33</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:33</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:33</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:33</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:33</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:33</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:33</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:33</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:33</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:33</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:33</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:34</td>
+	<td>Score Changed</td>
+</tr>
+</table>
+</body>
+</html><!DOCTYPE html>
+<head>
+<style>
+table { width: 100% }
+th { font:bold 10pt Tahoma; }
+td { font:normal 10pt Tahoma; }
+h1 {font:normal 11pt Tahoma;}
+</style>
+</head>
+<body>
+<h1>Sat Dec 21 08:34:02 EET 2019</h1>
+<table border="0" cellpadding="5" cellspacing="3">
+<tr align="left">
+	<th style="width:10%">Loglevel</th>
+	<th style="width:15%">Time</th>
+	<th style="width:75%">Log Message</th>
+</tr>
+</table>
+</body>
+</html><!DOCTYPE html>
+<head>
+<style>
+table { width: 100% }
+th { font:bold 10pt Tahoma; }
+td { font:normal 10pt Tahoma; }
+h1 {font:normal 11pt Tahoma;}
+</style>
+</head>
+<body>
+<h1>Sat Dec 21 08:34:02 EET 2019</h1>
+<table border="0" cellpadding="5" cellspacing="3">
+<tr align="left">
+	<th style="width:10%">Loglevel</th>
+	<th style="width:15%">Time</th>
+	<th style="width:75%">Log Message</th>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:34</td>
+	<td>Opening Start frame</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:34</td>
+	<td>starting</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:34</td>
+	<td>Setting Button Clicked</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:34</td>
+	<td>Setting frame opened</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:34</td>
+	<td>full screen on</td>
+</tr>
+<tr>
+	<td style="color:red"><b>WARNING</b></td>
+	<td>Dec 21,2019 08:34</td>
+	<td>Setting is closed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:34</td>
+	<td>Start Button Clicked</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:34</td>
+	<td>Opening levels Frame</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:34</td>
+	<td>Hard mode is Chosen</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:34</td>
+	<td>Moving to the game</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:34</td>
+	<td>Loading</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:34</td>
+	<td>Game is opened</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:34</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:34</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:34</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:34</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:34</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:34</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:34</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:34</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:34</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:34</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:34</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:34</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:34</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:34</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:34</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:34</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td style="color:red"><b>WARNING</b></td>
+	<td>Dec 21,2019 08:34</td>
+	<td>Backing home from the game</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:34</td>
+	<td>Opening Start frame</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:34</td>
+	<td>Score Changed</td>
+</tr>
+<tr>
+	<td>INFO</td>
+	<td>Dec 21,2019 08:34</td>
+	<td>Score Changed</td>
+</tr>
+</table>
+</body>
+</html>
