@@ -1,5 +1,10 @@
 # Clown-OF-Plates
 GUI Animated Game Implemented in Java
+### to run the game ###
+1. open "to run open jar inside "
+2. then downlaod zip file from link in readme.txt
+3. put jar file and the extracted zip file in one directory and run the jar 
+### enjoy the game ###
 
 Program Specifications:
 
