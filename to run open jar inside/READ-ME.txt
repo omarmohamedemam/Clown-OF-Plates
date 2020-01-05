@@ -1,4 +1,6 @@
 To play the game 
+Download this zip file https://drive.google.com/file/d/171pNXPxKQkCARcFNpzazPj7cLHYfdAZt/view?usp=sharing
+Then
 extract the zip file in same directroy with the jar file
 ---you will need to have any version of JDk on your computer 
 --- no need to copy any of the source files
