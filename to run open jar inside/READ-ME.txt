@@ -1,0 +1,6 @@
+To play the game 
+extract the zip file in same directroy with the jar file
+---you will need to have any version of JDk on your computer 
+--- no need to copy any of the source files
+--- for game instruction check report.pdf
+**Copy Rights is for Omar Emam @ 5/1/2020
