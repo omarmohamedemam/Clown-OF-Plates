@@ -1,6 +1,8 @@
 # Clown-OF-Plates
 GUI Animated Game Implemented in Java
+
 Program Specifications:
+
 -Program has interactive GUI which will help the user change the setting (size, quality, sound …),the level (easy,medium,hard)and inside the game the user will be able to  pause , un/mute sound and see his time and score all in very friendly GUI.
 
 -The user will have variety in plates shapes and speeds in each level 
